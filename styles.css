@@ -12,16 +12,16 @@ body{
     font-family: 'Poppings', sans-serif;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     min-height: 100vh;
     gap: 1rem;
+    flex-flow: column;
 }
 
 .add{
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
+    position: center;
+    top: 10vh;
+    right: 10vh;
     background-color: #5a67d8;
     color: #fff;
     border: none;
@@ -40,6 +40,10 @@ body{
 
 .add:hover {
     background-color: #4c51bf;
+}
+
+.AddNote {
+    display:block;
 }
 
 .note {
