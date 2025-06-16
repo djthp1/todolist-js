@@ -18,7 +18,7 @@ Uma aplicação web simples e moderna feita com **HTML**, **CSS** e **JavaScript
 ## 📷 Interface
 
 ![todolist print](https://github.com/user-attachments/assets/e22e0443-f7ec-4a6b-8887-a02acfb8a2dd)
-![todolist print](https://github.com/user-attachments/assets/e22e0443-f7ec-4a6b-8887-a02acfb8a2dd)
+
 
 
 
