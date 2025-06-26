@@ -42,6 +42,7 @@ Clique duas vezes no index.html, ou
 Use o Live Server (VS Code) para recarregamento automático
 
 📦 Tecnologias Utilizadas
+
 HTML5
 
 CSS3 (com Flexbox)
